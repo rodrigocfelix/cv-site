@@ -31,7 +31,7 @@ export const RESUME_DATA = {
   avatarUrl: "felix.jpg",
   personalWebsiteUrl: "https://rcfelix.pt",
   contact: {
-    email: "rodrigocanelasfelix@gmail.com",
+    email: "me@rcfelix.pt",
     tel: "+351919912074",
     social: [
       {
