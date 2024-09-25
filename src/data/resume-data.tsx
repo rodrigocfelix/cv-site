@@ -74,7 +74,7 @@ export const RESUME_DATA = {
     {
       company: "Link Consulting",
       link: "https://linkconsulting.com/",
-      badges: ["Remote"],
+      badges: ["Remote", "Part-time"],
       title: "Junior Consultant",
       start: "2021",
       end: "2024",
@@ -101,6 +101,7 @@ export const RESUME_DATA = {
     "Terraform",
     "Kubernetes",
     "Helm",
+    "Docker",
     "Kustomize",
     "Sealed Secrets",
     "Prometheus",
