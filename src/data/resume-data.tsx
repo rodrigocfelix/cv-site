@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Computer Science and Engineering graduate currently working as a Consultant at Link Consulting.",
   summary:
-    "I'm a Computer Science and Engineering graduate with a passion for technology and continuous learning. During my master's degree I balanced part-time work with my studies, and since completing my thesis, I’ve been working full-time in the tech industry. I’m highly motivated and like to challenge myself with complex problems. I have a strong background in cloud computing, GitOps, and infrastructure as code, as well as hands-on experience with backend development using Spring and Quarkus.",
+    "I'm a Computer Science and Engineering graduate with a passion for technology and continuous learning. During my master's degree I balanced part-time work with my studies, and since completing my thesis, I’ve been working full-time in the tech industry. I’m highly motivated and like to challenge myself with complex problems. I have a strong background in cloud computing, DevOps, and infrastructure as code, as well as hands-on experience with backend development using Spring and Quarkus.",
   avatarUrl: "felix.jpg",
   personalWebsiteUrl: "https://rcfelix.pt",
   contact: {
@@ -69,7 +69,7 @@ export const RESUME_DATA = {
       start: "2024",
       end: null,
       description:
-        "In my current role, I primarily focus on the GitOps aspect of our project, utilizing mostly ArgoCD. I also took ownership of building and maintaining a monitoring stack for our Kubernetes clusters using tools such as Promtail, Loki and Grafana. Additionally, I contribute to backend development using Java with Spring.",
+        "In my current role, I primarily focus on the DevOps aspect of our project, utilizing mostly ArgoCD and GitHub Actions. I also took ownership of building and maintaining a monitoring stack for our Kubernetes clusters using tools such as Promtail, Loki and Grafana. Additionally, I sometimes contribute to backend development using Java with Spring.",
     },
     {
       company: "Link Consulting",
@@ -79,7 +79,7 @@ export const RESUME_DATA = {
       start: "2021",
       end: "2024",
       description:
-      "During my part-time, I supported the development of cloud-based solutions. I automated infrastructure deployments using Terraform and integrated CI/CD pipelines using GitLab CI/CD and GitHub Actions. When infrastructure updates were not needed, I focused on backend development with Java (Quarkus).",
+      "During my part-time, I supported the development of cloud-based solutions. I automated infrastructure deployments using Terraform and integrated CI/CD pipelines using GitLab CI/CD. When infrastructure updates were not needed, I focused on backend development with Java (Quarkus).",
     },
     {
       company: "Link Consulting",
@@ -93,13 +93,13 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
-    "GitOps",
-    "ArgoCD",
+    "DevOps",
     "Gitlab CI/CD",
     "Github Actions",
     "Infraestructure as Code",
     "Terraform",
     "Kubernetes",
+    "ArgoCD",
     "Helm",
     "Docker",
     "Kustomize",
@@ -112,7 +112,6 @@ export const RESUME_DATA = {
     "Oracle",
     "Kong",
     "Istio",
-    "Kafka",
     "Solace",
     "Quarkus",
     "Spring",
